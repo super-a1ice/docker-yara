@@ -1,0 +1,8 @@
+.git
+.gitignore
+.gitmodules
+.github
+.circleci
+README.md
+Dockerfile
+tests
